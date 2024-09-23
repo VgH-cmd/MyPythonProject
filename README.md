@@ -15,6 +15,11 @@
         O terceiro programa usa I.A para tomada de decisão sobre o score de credito de clientes, onde no programa treinei a inteligencia artificial para a tomada de decisão correta sobre varios dados do cliente;
 
         O quarto programa funciona como um bate papo em um navegador, através dele é possível entra em um chat e conversar com outro úsuario que também esta presente no chat (isso só é possível localmente)
+        
+        O Quinto projeto é basicamente meu primeiro jogo, a qual recriei o famoso jogo da cobrinha, obviamente de cunho educacional para meu desenvolvimento profissional na área de tecnologia. Nesse jogo, criei um menu, customização e o jogo principal do qual pode-se definir a cor da cobra ou comida com base na cor escrita pelo usúario (Apôs clicar na cor da cobra ou comida, apenas escreva a cor que deseja e pressionar enter, de preferencia cores em ingles, também, caso digite uma cor invalida, por padrão será definido as cores verde para a cobra e vermelho para a comida).
+
+        Obs: Nos projetos 1, 4 e 5 tem um vídeo mostrando como deve funcionar.
+
 
     **Espero que esses projetos tenha ajudado e porfavor, qualquer erro presente no codigo criem um issue para mim, eu agradeço. Desde já, Muito obrigado pela atenção.**
 
@@ -35,6 +40,10 @@ Basically I learned how to develop these 4 projects that I completed for my prof
         The third program uses A.I. for decision-making on customer credit scores, where no program trains artificial intelligence to make correct decisions on various customer data;
 
         The fourth program works like a chat in a browser, through it you can enter a chat and talk to another user who is also present in the chat (this is only possible locally)
+
+        The Fifth project is basically my first game, in which I recreated the famous snake game, obviously of an educational nature for my professional development in the technology area. In this game, I created a menu, customization and the main game in which you can set the color of the snake or food based on the color written by the user (After clicking on the color of the snake or food, just write the color you want and press enter , preferably colors in English, also, if you enter an invalid color, by default the colors green will be defined for the snake and red for the food).
+
+        Obs: On projects 1, 4 and 5, there's a video showing how it should works.
 
     **I hope these projects have helped and please, any errors present in the code create a issue for me, I appreciate it. Thank you very much in advance for your attention.**
     
